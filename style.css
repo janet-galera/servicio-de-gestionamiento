@@ -1,0 +1,111 @@
+
+body {
+	font-size: 20px;
+	line-height: 20px;
+	align-content: center;
+}
+#encabezado {
+	background-image: url(images/cagrol1.jpg);
+	display: block;
+	margin: auto;
+	text-align-last: center;
+}
+
+h1 {
+	background-image: url(images/Blockchain3.jpg);
+	font-family: 'PT Sans', sans-serif;
+	color: rgb(38, 80, 30);
+	font-size: 50px;
+	line-height: 30px;
+	text-align: center;
+}
+
+h2 {
+	font-size: 25px;
+	font-family: 'PT Sans', sans-serif;
+	line-height: 25px;
+	text-align: center;
+	margin: 30px;
+
+}
+p {
+	margin: 30px;
+	font-family:'Chivo', sans-serif;
+	line-height: 25px;
+	justify-content: all;
+}
+
+#preferencias { 
+	background-image: url(images/Blockchain.jpg);
+	margin: auto;
+	padding: 12px;
+	border: 4px;
+	border-radius: 10px;
+	box-shadow: 100px;
+}
+#box-greenyellow {
+	background-color: rgba(173, 255, 47, 0.5);
+	padding: 20px;
+	font-family: 'Chivo', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+
+}
+h3 {
+	font-family: 'Chivo', sans-serif;
+	font-size: 20px;
+	line-height: 20px;
+	text-align: left;
+	margin: 30px;
+}
+#logos
+ul li {
+	width: 50px;
+	object-fit: cover;
+	object-position: bottom;
+	text-align: center;
+}
+
+.img-center {
+	width: 100px;
+	align-items: center;
+}
+h4 {
+	font-family: 'Chivo', sans-serif;
+	font-size: 20px;
+	margin: 30px;
+}
+h5 {
+	font-family: 'Chivo', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+
+
+a {
+	color: blue;
+	font-family: 'Chivo', sans-serif;
+}
+a:hover {
+	color: red;
+	font-family: 'Chivo', sans-serif;
+}
+
+#temas
+ul li: :before{
+list-style: none;
+font-family: 'Chivo', sans-serif;
+display:  inline-block;
+color: #454B49;
+font-size: 20px;
+line-height: 50px;
+vertical-align: 0px;
+}
+
+#service
+ul li {
+	text-align: center;
+	list-style: none;
+	font-family: 'Chivo', sans-serif;	
+}
